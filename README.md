@@ -39,3 +39,6 @@ The various app screens and features used in the website are as follows:
 •	Encrypt Window: It is the entry point from where one can encrypt their message.
 •	Decrypt Window: This window contains the message which will have to be decoded.
 •	Function Button: It can encrypt the message using the key and can decrypt the encrypted hash using same key.
+
+![image](https://user-images.githubusercontent.com/98467116/171452837-5f32a68e-70d2-4971-bd63-7576df0a5fa4.png)
+![image](https://user-images.githubusercontent.com/98467116/171452861-5063d4cc-7e9b-4c11-adae-87796da03db3.png)
